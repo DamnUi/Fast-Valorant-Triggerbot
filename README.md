@@ -1,3 +1,13 @@
+# I have gotten banned, realized i actually like the game.
+
+
+
+
+
+
+
+
+
 # Fast-Valorant-Triggerbot
 By far the fastest available python triggerbot out there, no joke its speed is pretty crazy.
 
